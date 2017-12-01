@@ -1,0 +1,20 @@
+{
+    "name": "code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "joi": "^13.0.2",
+        "lodash": "^4.17.4",
+        "morgan": "^1.9.0"
+    }
+}
